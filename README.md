@@ -55,7 +55,7 @@ SQL was used to extract and preprocess data from the Northwind database before v
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](images/dashboard_main.png)
+![Sales Dashboard](report.png)
 
 ---
 
@@ -71,9 +71,9 @@ SQL was used to extract and preprocess data from the Northwind database before v
 ---
 
 ## 📂 Repository Structure
-/images -> Dashboard screenshots
-/sql -> SQL queries
-README.md
+- /images -> Dashboard screenshots
+- /sql -> SQL queries
+- README.md
 
 
 ---
